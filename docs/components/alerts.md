@@ -18,6 +18,7 @@ Alerts are available for any length of text, as well as an optional dismiss butt
 
 {% example html %}
 <div class="alert alert-success" role="alert">
+  <i class="fa fa-address-book" aria-hidden="true"></i>
   <strong>Well done!</strong> You successfully read this important alert message.
 </div>
 <div class="alert alert-info" role="alert">

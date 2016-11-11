@@ -10,6 +10,9 @@
 @import "variables";
 @import "mixins";
 
+// vendor
+@import "./font-awesome/font-awesome";
+
 // Reset and dependencies
 @import "normalize";
 @import "print";
